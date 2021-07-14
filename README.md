@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @skyju
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning java & sql
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Web developing
 - 📫 How to reach me (kacamimi3544@gmail.com)
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyju
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web developing
+- 👀 I’m interested in Web Programming
+- 🌱 What I'm learning these days is the C language!
 - 📫 How to reach me (kacamimi3544@gmail.com)
 
 <!---

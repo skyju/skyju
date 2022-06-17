@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <div><h2>Boot camp</h2></div>
-<img src="https://img.shields.io/badge/42?style=for-the-badge&logo=42&logoColor=#000000">
+<img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42">
 
 <!---
 skyju/skyju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
 <div><h2>Aws</h2></div>
-
+<img src="https://img.shields.io/badge/AWS-6DB33F?style=for-the-badge&logo=AWS&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon S3-#569A31?style=for-the-badge&logo=Amazon S3"> 
 
 <div><h2>Configuration management</h2></div>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">

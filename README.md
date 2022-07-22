@@ -7,6 +7,8 @@
 <div><h2>Boot camp</h2></div>
 <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42">
 
+++ SSAFY!
+
 <!---
 skyju/skyju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

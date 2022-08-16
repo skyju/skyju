@@ -8,11 +8,14 @@
 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+  
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
 <div><h2>Boot camp</h2></div>
-<img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42"><img src="https://img.shields.io/badge/SSAFY-000000?style=for-the-badge&logo=SSAFY">
+
+<img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42"> <img src="https://img.shields.io/badge/SSAFY-000000?style=for-the-badge&logo=SSAFY">
 
 <!---
 skyju/skyju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

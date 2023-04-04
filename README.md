@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @skyju
-- 📫 How to reach me : kacamimi@naver.com
+- 👋 @skyju 의 GitHHub에 오신 걸 환영합니다~~~
 
 <div align=center><h1>📚things here now</h1>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
